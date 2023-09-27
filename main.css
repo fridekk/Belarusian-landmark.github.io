@@ -1,0 +1,51 @@
+.flag {
+    animation: slidein 2s ease-in-out ;
+    width:700px;
+    border-radius: 20%;
+    ruby-align: center;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .View {
+    animation: slidein 3s ease-in-out;
+    width:500px;
+    border-radius: 20%;
+  }
+  
+  @keyframes slidein {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+    width:500px;
+    border-radius: 20%;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width:500px;
+    border-radius: 20%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width:500px;
+    border-radius: 20%;
+    }
+  }
+  img{
+    width:500px;
+    border-radius: 20%;
+    animation: slidein 3s ease-in-out;
+    transition: 1s;
+
+  }
+  img:hover {
+    width:550px
+  }
+
+
+  h1{
+    text-align: center;
+  }
+  
