@@ -2,7 +2,7 @@
 
 .flag {
     animation: slidein 2s ease-in-out ;
-    width:700px;
+    width:500px;
     border-radius: 20%;
     ruby-align: center;
     display: block;
@@ -45,10 +45,15 @@
   img:hover {
     width:550px
   }
+  .une{
+    width:400px
+
+  }
 
 
   h1{
     text-align: center;
+    font-family: 'Mooli';
   }
   p{
     font-family: 'Mooli';
@@ -59,4 +64,9 @@
   h5{
     font-family: 'Mooli';
   }
-  
+  body{
+    background-color: #97f60d;
+  }
+h2{
+  font-family: 'Mooli';
+}
