@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+
 .flag {
     animation: slidein 2s ease-in-out ;
     width:700px;
@@ -47,5 +49,14 @@
 
   h1{
     text-align: center;
+  }
+  p{
+    font-family: 'Mooli';
+  }
+  li{
+    font-family: 'Mooli';
+  }
+  h5{
+    font-family: 'Mooli';
   }
   
