@@ -54,19 +54,26 @@
   h1{
     text-align: center;
     font-family: 'Mooli';
+    font-weight: bold;
   }
   p{
     font-family: 'Mooli';
+    font-weight: bold;
   }
   li{
     font-family: 'Mooli';
+    font-weight: bold;
   }
   h5{
     font-family: 'Mooli';
+    font-weight: bold;
   }
   body{
-    background-image: url(keytorm.jpg);
+    background-image: url(keytorm.jpg) ;
+    background-size: cover;
+    
   }
 h2{
   font-family: 'Mooli';
+  font-weight: bold;
 }
